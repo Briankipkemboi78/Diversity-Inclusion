@@ -13,4 +13,6 @@ The type of KPIs developed here Include:
 - Executive Gender balance
 - Age group
 
-![KPIs]( 
+![KPIs](https://github.com/Briankipkemboi78/Diversity-Inclusion/blob/main/hr1.png?raw=true)
+![KPIs](https://github.com/Briankipkemboi78/Diversity-Inclusion/blob/main/hr2.png?raw=true)
+
