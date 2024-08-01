@@ -14,5 +14,5 @@ The type of KPIs developed here Include:
 - Age group
 
 ![KPIs](https://github.com/Briankipkemboi78/Diversity-Inclusion/blob/main/hr1.png?raw=true)
-![KPIs](https://github.com/Briankipkemboi78/Diversity-Inclusion/blob/main/hr2.png?raw=true)
+![KPIs](https://github.com/Briankipkemboi78/Diversity-Inclusion/blob/main/Hr2.png?raw=true)
 
